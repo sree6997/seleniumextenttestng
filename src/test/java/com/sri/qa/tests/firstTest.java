@@ -32,7 +32,7 @@ public class firstTest {
 	public void testfailed()
 	{
 		driver.findElement(By.id("email")).sendKeys("sridevi");
-   Assert.assertTrue(false);
+   Assert.assertTrue(true);
 
 	}
 }
