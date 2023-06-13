@@ -35,4 +35,8 @@ public class firstTest {
    
 
 	}
+	@Test void printHi()
+	{
+		System.out.println("hi sridevi merl");
+	}
 }
