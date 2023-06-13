@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-13T20:37:39 IST" name="Surefire suite" finished-at="2023-06-13T20:37:43 IST" duration-ms="4605">
+    <groups>
+    </groups>
+    <test started-at="2023-06-13T20:37:39 IST" name="Surefire test" finished-at="2023-06-13T20:37:43 IST" duration-ms="4605">
+      <class name="com.sri.qa.tests.firstTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.sri.qa.tests.firstTest@79ca92b9]" started-at="2023-06-13T20:37:39 IST" name="init" finished-at="2023-06-13T20:37:43 IST" duration-ms="4385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="printHi()[pri:0, instance:com.sri.qa.tests.firstTest@79ca92b9]" started-at="2023-06-13T20:37:43 IST" name="printHi" finished-at="2023-06-13T20:37:43 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHi -->
+        <test-method signature="printHii()[pri:0, instance:com.sri.qa.tests.firstTest@79ca92b9]" started-at="2023-06-13T20:37:43 IST" name="printHii" finished-at="2023-06-13T20:37:43 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHii -->
+        <test-method signature="test()[pri:0, instance:com.sri.qa.tests.firstTest@79ca92b9]" started-at="2023-06-13T20:37:43 IST" name="test" finished-at="2023-06-13T20:37:43 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="testfailed()[pri:0, instance:com.sri.qa.tests.firstTest@79ca92b9]" started-at="2023-06-13T20:37:43 IST" name="testfailed" finished-at="2023-06-13T20:37:43 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfailed -->
+      </class> <!-- com.sri.qa.tests.firstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
