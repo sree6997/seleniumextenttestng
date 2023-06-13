@@ -32,10 +32,12 @@ public class firstTest {
 	public void testfailed()
 	{
 		driver.findElement(By.id("email")).sendKeys("sridevi");
+		System.out.println("deleted assertion");
    
 
 	}
-	@Test void printHi()
+	@Test 
+	public void printHi()
 	{
 		System.out.println("hi sridevi merl");
 	}
