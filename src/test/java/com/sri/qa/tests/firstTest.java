@@ -41,4 +41,9 @@ public class firstTest {
 	{
 		System.out.println("hi sridevi merl");
 	}
+	@Test 
+	public void printHii()
+	{
+		System.out.println("hi sridevi merla");
+	}
 }
